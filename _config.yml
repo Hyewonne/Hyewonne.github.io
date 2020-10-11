@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyewon Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**Kyung Hee University** Bachelor of Software Convergence (Future Vehicle and Robot Track)"
+  location         : "Kyung Hee University"
   email            :
   links:
     - label: "Email"
